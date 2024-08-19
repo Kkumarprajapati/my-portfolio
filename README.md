@@ -1,1 +1,1 @@
-[*click to review the project*]()
+[my project]()

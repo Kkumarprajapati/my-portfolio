@@ -1,1 +1,1 @@
-[click to visit my project](https://kkumarprajapati.github.io/my-project/)
+[click to visit my project](https://kkumarprajapati.github.io/my-portfolio/)
